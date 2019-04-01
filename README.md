@@ -1,7 +1,6 @@
-# visjs-example
+# ember-visjs-example
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+See the commit log to see the changes required to start using VisJS in your EmberJS project.
 
 ## Prerequisites
 
