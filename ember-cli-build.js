@@ -20,5 +20,8 @@ module.exports = function(defaults) {
   // please specify an object with the list of modules as keys
   // along with the exports of each module as its value.
 
+  app.import('node_modules/vis/dist/vis.js');
+  app.import('node_modules/vis/dist/vis.js.map');
+  app.import('node_modules/vis/dist/vis.css');
   return app.toTree();
 };
